@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love EDM.
 - ☑️ My Github Stats
--  [![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi)](https://github.com/anuraghazra/github-readme-stats)
+ [![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi)](https://github.com/vanshajtyagi/github-readme-stats)
 
 <!--
 
