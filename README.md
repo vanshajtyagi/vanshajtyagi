@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 
-     [![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi)]
+     ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi)
 <!--
 
 - 👯 I’m looking to collaborate on ...
