@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vanshaj.tyagi234@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love EDM.
+- ☑️ My Github Stats
+-  [![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 - 👯 I’m looking to collaborate on ...
