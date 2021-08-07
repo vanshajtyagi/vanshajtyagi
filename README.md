@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Full stack development and DS and Algo
 - 🌱 I’m currently learning AWS and the same above.
-- 📫 How to reach me: vanshaj.tygai234@gmail.com
+- 📫 How to reach me: vanshaj.tyagi234@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love EDM.
 <!--
