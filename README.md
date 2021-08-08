@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 
 
-     ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi&show_icons=true&theme=midnight-purple)
+     ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi&show_icons=true&theme=midnight-purple&count_private=true)
+
 
 <!--
 
