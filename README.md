@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vanshaj.tyagi234@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love EDM.
-- ☑️ My Github Stats
+- ☑️ My Github Stats:
 
 
 
