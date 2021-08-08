@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
      ![Vanshaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshajtyagi&show_icons=true&theme=radical)
-)
+
 <!--
 
 - 👯 I’m looking to collaborate on ...
